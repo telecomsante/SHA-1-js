@@ -175,3 +175,4 @@ Utf8.decode = function(strUtf) {
 }
 
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
+if (typeof module != 'undefined' && module.exports) module.exports = Sha1; // ≡ export default Sha1
