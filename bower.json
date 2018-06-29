@@ -2,10 +2,6 @@
   "name": "sha-1",
   "description": "sha1 js implementation",
   "main": "sha1.js",
-  "authors": [
-    "Brendan - BGO - El Señor Alpaca <brendan.goubin@telecomsante.com>"
-  ],
-  "license": "MIT",
   "keywords": [
     "sha1",
     "javascript",
